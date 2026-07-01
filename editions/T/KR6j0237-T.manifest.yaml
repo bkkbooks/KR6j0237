@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0237/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0237/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿唎多羅陀羅尼阿嚕力經
+  identifiers:
+    krp: KR6j0237
+    cbeta: T20n1039
+    cbeta_old_id: T20n1039
+    authorityid: CA0000008
+    json_key: T1039
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1039.xml
+    old_id: T20n1039
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0237_000-T.yaml, hash: 'sha256:20e7221a044c9e995fd69aaa7bde74f2d1f8f7642e87db48e01d541c2c0b0200'}
+  - {seq: 1, filename: KR6j0237_001-T.yaml, hash: 'sha256:dcfceadf2f14de5776644255c0906dd5b350a3a7f9b6a2d57c82cc0f2b673c26'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0237_000-T.markers.yaml, hash: 'sha256:0aee719494520fd3f362d538483436034061ed61bee4520a37ba896301328bf6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0237_001-T.markers.yaml, hash: 'sha256:cea83510cf33afaedc6a7aa864c1025fd53370f7ba4ff53afd6e1b30bd9404ce'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0237_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9449
+  label: 阿唎多羅陀羅尼阿嚕力經
+  type: juan
+  level: 1
+hash: sha256:37b197372604b6ed366078cec9512e353d4a3cfcff1f95efea41cd3238d5cccf

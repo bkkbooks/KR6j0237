@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0237/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿唎多羅陀羅尼阿嚕力經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1039.xml
+    old_id: T20n1039
+hash: sha256:20e7221a044c9e995fd69aaa7bde74f2d1f8f7642e87db48e01d541c2c0b0200
