@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0237_000.yaml, hash: 'sha256:20e7221a044c9e995fd69aaa7bde74f2d1f8f7642e87db48e01d541c2c0b0200'}
-  - {seq: 1, filename: KR6j0237_001.yaml, hash: 'sha256:057a62efee49a265b5272a58b5347037af4b07082e25b93bfbc1c786cfe9d862'}
+  - {seq: 1, filename: KR6j0237_001.yaml, hash: 'sha256:dcfceadf2f14de5776644255c0906dd5b350a3a7f9b6a2d57c82cc0f2b673c26'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0237_001.markers.yaml, hash: 'sha256:6b6966b48c366cb1256296484f4cf27fa494d23b8e62220fb004254be60fd18a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0237_000.markers.yaml, hash: 'sha256:4496ea1599b235a171706adcc119791abbf164b82575952d6fd8a50c748be42e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0237_001.markers.yaml, hash: 'sha256:858dd73ebd2569af1fd6d4b39cdade04c0e995efba0f6e63d167d6919541d613'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 阿唎多羅陀羅尼阿嚕力經
   type: juan
   level: 1
-hash: sha256:6ecc34ceb14109ed306f5643ee6e4fd2f3ff550c36b7f01fe691214c5912e14c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d4064451f111b4ce579cb5c9efc1afab62bc518fdacb526a9e7f5f326c3da165
