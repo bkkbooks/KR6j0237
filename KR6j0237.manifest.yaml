@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0237/v1
 canonical_location: https://kanripo.org/bkk/KR6j0237/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阿唎多羅陀羅尼阿嚕力經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0237_000.yaml, hash: 'sha256:20e7221a044c9e995fd69aaa7bde74f2d1f8f7642e87db48e01d541c2c0b0200'}
-  - {seq: 1, filename: KR6j0237_001.yaml, hash: 'sha256:dcfceadf2f14de5776644255c0906dd5b350a3a7f9b6a2d57c82cc0f2b673c26'}
+  - {seq: 1, filename: KR6j0237_001.yaml, hash: 'sha256:c0d9f1623eee1ce424514b64d5b74f15a6f8471162d4e1b7e20b339f595c43c0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0237_000.markers.yaml, hash: 'sha256:4496ea1599b235a171706adcc119791abbf164b82575952d6fd8a50c748be42e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0237_001.markers.yaml, hash: 'sha256:858dd73ebd2569af1fd6d4b39cdade04c0e995efba0f6e63d167d6919541d613'}
+  - {seq: 1, role: markers, filename: assets/KR6j0237_001.markers.yaml, hash: 'sha256:4d82bfafcbec5dbd6419d63394ba78a88ae03fb6b0224dea555132616c608b78'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 阿唎多羅陀羅尼阿嚕力經
   type: juan
   level: 1
-hash: sha256:d4064451f111b4ce579cb5c9efc1afab62bc518fdacb526a9e7f5f326c3da165
+hash: sha256:f473853ba1984ec350afe14d1524cb3bdee6650e2bff96db303927fd3a28f85e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
